@@ -1,9 +1,9 @@
-import Board from "./components/board";
+import Games from "./components/games";
 
 export default function App() {
   return (
     <>
-      <Board />
+      <Games />
     </>
   );
 }
